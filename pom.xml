@@ -6,6 +6,8 @@
   <artifactId>test-heroku</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <properties>
+      <java.version>1.8</java.version>
+      
     <compiler-plugin.version>3.8.1</compiler-plugin.version>
     <maven.compiler.release>11</maven.compiler.release>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
